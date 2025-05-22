@@ -85,15 +85,10 @@ A feature-rich e-commerce mobile application built with Flutter and Appwrite bac
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.arifqayoom39.mahamall">
-    <h2>DOWNLOAD ON GOOGLE PLAY</h2>
-  </a>
-</div>
+[DOWNLOAD ON GOOGLE PLAY](https://play.google.com/store/apps/details?id=com.arifqayoom39.mahamall)
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Your Name - [@ArifQayoom39](https://twitter.com/arifqayoom39) - arifqayoom39@gmail.com
 
-Project Link: [https://github.com/yourusername/ihoo](https://github.com/yourusername/ihoo)
+Project Link: [https://github.com/arifqayoom39/](https://github.com/arifqayoom39/)
